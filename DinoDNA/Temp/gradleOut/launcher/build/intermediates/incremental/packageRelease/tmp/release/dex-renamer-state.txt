@@ -1,4 +1,0 @@
-#Tue Sep 20 11:46:59 CEST 2022
-base.0=/Users/crisseren/Documents/Hub/Assignment2_DinoDNA/DinoDNA/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
